@@ -20,7 +20,7 @@ const Hero: React.FC = () => {
               Ver Catálogo
             </a>
             <a 
-              href="https://wa.me/573131199660" 
+              href="https://wa.me/523131199660" 
               target="_blank" 
               rel="noopener noreferrer"
               className="border-2 border-neon-violet text-neon-violet hover:bg-neon-violet hover:text-white px-8 py-4 rounded-full font-semibold transition-all duration-300 transform hover:scale-105"
