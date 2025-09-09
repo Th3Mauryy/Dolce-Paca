@@ -137,7 +137,7 @@ const ProductCard: React.FC<{ product: Product }> = ({ product }) => {
         <div className="flex items-center justify-between">
           <span className="text-2xl font-bold text-neon-violet">{product.price}</span>
           <a
-            href={`https://wa.me/573131199660?text=Hola, estoy interesado en el ${product.name} por ${product.price}`}
+            href={`https://wa.me/523131199660?text=Hola, estoy interesado en el ${product.name} por ${product.price}`}
             target="_blank"
             rel="noopener noreferrer"
             className="bg-neon-violet hover:bg-light-violet text-white px-4 py-2 rounded-lg font-medium transition-colors duration-300"
